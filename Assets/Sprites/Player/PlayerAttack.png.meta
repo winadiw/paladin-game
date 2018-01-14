@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: d0345f5f700d08349b292766e440f67c
+timeCreated: 1466435867
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerAttack_0
+    21300002: PlayerAttack_1
+    21300004: PlayerAttack_2
+    21300006: PlayerAttack_3
+    21300008: PlayerAttack_4
+    21300010: PlayerAttack_5
+    21300012: PlayerAttack_6
+    21300014: PlayerAttack_7
+    21300016: PlayerAttack_8
+    21300018: PlayerAttack_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerAttack_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 52}
+        - {x: -33, y: 37}
+        - {x: -33, y: -52}
+        - {x: 30, y: -52}
+        - {x: 33, y: -37}
+        - {x: 33, y: 41}
+        - {x: 14, y: 52}
+    - name: PlayerAttack_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 8
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 48.5}
+        - {x: 16.5, y: 52.5}
+        - {x: -22.5, y: 52.5}
+        - {x: -27.5, y: 47.5}
+        - {x: -30.5, y: 34.5}
+        - {x: -30.5, y: -52.5}
+        - {x: -11.5, y: -52.5}
+        - {x: -10.5, y: -51.5}
+        - {x: -8.5, y: -52.5}
+        - {x: 30.5, y: -52.5}
+    - name: PlayerAttack_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 52.5}
+        - {x: -29.5, y: 48.5}
+        - {x: -29.5, y: -52.5}
+        - {x: 24.5, y: -52.5}
+        - {x: 29.5, y: -31.5}
+        - {x: 29.5, y: 37.5}
+        - {x: 1.5, y: 52.5}
+    - name: PlayerAttack_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 9
+        width: 60
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 52}
+        - {x: -30, y: 44}
+        - {x: -30, y: -52}
+        - {x: 30, y: -52}
+        - {x: 30, y: 38}
+        - {x: 12, y: 52}
+    - name: PlayerAttack_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 8
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 52.5}
+        - {x: -35, y: 36.5}
+        - {x: -35, y: -52.5}
+        - {x: 24, y: -52.5}
+        - {x: 35, y: -17.5}
+        - {x: 35, y: 37.5}
+        - {x: 18, y: 52.5}
+    - name: PlayerAttack_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 8
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 51}
+        - {x: -39.5, y: 9}
+        - {x: -39.5, y: -20}
+        - {x: -38.5, y: -22}
+        - {x: -32.5, y: -22}
+        - {x: -37.5, y: -47}
+        - {x: -37.5, y: -51}
+        - {x: 39.5, y: -51}
+        - {x: 39.5, y: 39}
+        - {x: 21.5, y: 51}
+    - name: PlayerAttack_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 8
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 51}
+        - {x: -39.5, y: 11}
+        - {x: -39.5, y: -48}
+        - {x: -37.5, y: -51}
+        - {x: 39.5, y: -51}
+        - {x: 39.5, y: 49}
+        - {x: 36.5, y: 51}
+    - name: PlayerAttack_7
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 8
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 50.5}
+        - {x: -40, y: 12.5}
+        - {x: -40, y: -50.5}
+        - {x: 39, y: -50.5}
+        - {x: 40, y: -49.5}
+        - {x: 40, y: 32.5}
+        - {x: 34, y: 50.5}
+    - name: PlayerAttack_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 9
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 51.5}
+        - {x: -9, y: 51.5}
+        - {x: -22, y: 43.5}
+        - {x: -42, y: -6.5}
+        - {x: -42, y: -51.5}
+        - {x: 17, y: -51.5}
+        - {x: 38, y: -33.5}
+        - {x: 42, y: -30.5}
+        - {x: 42, y: 14.5}
+    - name: PlayerAttack_9
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 9
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 52}
+        - {x: -16.5, y: 52}
+        - {x: -26.5, y: 47}
+        - {x: -39.5, y: 15}
+        - {x: -39.5, y: -46}
+        - {x: -37.5, y: -52}
+        - {x: 19.5, y: -52}
+        - {x: 39.5, y: -27}
+        - {x: 39.5, y: 20}
+        - {x: 37.5, y: 28}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

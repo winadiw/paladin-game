@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: d1283787261f44048a077ff626b4d36b
+timeCreated: 1466435854
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerMoveRight_0
+    21300002: PlayerMoveRight_1
+    21300004: PlayerMoveRight_2
+    21300006: PlayerMoveRight_3
+    21300008: PlayerMoveRight_4
+    21300010: PlayerMoveRight_5
+    21300012: PlayerMoveRight_6
+    21300014: PlayerMoveRight_7
+    21300016: PlayerMoveRight_8
+    21300018: PlayerMoveRight_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerMoveRight_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 53.5}
+        - {x: -34.5, y: 45.5}
+        - {x: -34.5, y: -47.5}
+        - {x: -33.5, y: -53.5}
+        - {x: 10.5, y: -53.5}
+        - {x: 34.5, y: -41.5}
+        - {x: 34.5, y: 26.5}
+        - {x: 24.5, y: 53.5}
+    - name: PlayerMoveRight_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -46}
+        - {x: 3, y: -43}
+        - {x: 27, y: -38}
+        - {x: 31, y: -35}
+        - {x: 31, y: 49}
+        - {x: 29, y: 56}
+        - {x: -31, y: 56}
+        - {x: -31, y: -52}
+        - {x: -22, y: -56}
+        - {x: -16, y: -56}
+        - {x: -14, y: -54}
+        - {x: 1, y: -54}
+        - {x: 4, y: -51}
+    - name: PlayerMoveRight_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 8
+        width: 63
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 53.5}
+        - {x: -19.5, y: 53.5}
+        - {x: -28.5, y: 34.5}
+        - {x: -31.5, y: 14.5}
+        - {x: -31.5, y: -53.5}
+        - {x: 20.5, y: -53.5}
+        - {x: 31.5, y: -51.5}
+        - {x: 31.5, y: 45.5}
+    - name: PlayerMoveRight_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 9
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 53}
+        - {x: -32, y: 41}
+        - {x: -32, y: -51}
+        - {x: -29, y: -53}
+        - {x: 25, y: -53}
+        - {x: 32, y: -45}
+        - {x: 32, y: 32}
+        - {x: 7, y: 53}
+    - name: PlayerMoveRight_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 8
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -26}
+        - {x: 29, y: -7}
+        - {x: 31, y: 23}
+        - {x: 22, y: 42}
+        - {x: 2, y: 53}
+        - {x: -22, y: 53}
+        - {x: -28, y: 48}
+        - {x: -32, y: 33}
+        - {x: -32, y: -53}
+        - {x: 18, y: -53}
+        - {x: 30, y: -40}
+        - {x: 32, y: -35}
+        - {x: 32, y: -28}
+    - name: PlayerMoveRight_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 6
+        width: 67
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 53.5}
+        - {x: -33.5, y: 48.5}
+        - {x: -33.5, y: -53.5}
+        - {x: 18.5, y: -53.5}
+        - {x: 33.5, y: -31.5}
+        - {x: 33.5, y: 32.5}
+        - {x: 3.5, y: 53.5}
+    - name: PlayerMoveRight_6
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 4
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 55}
+        - {x: -27, y: 47}
+        - {x: -30, y: 21}
+        - {x: -35, y: 9}
+        - {x: -35, y: -36}
+        - {x: -32, y: -44}
+        - {x: -20, y: -38}
+        - {x: -19, y: -37}
+        - {x: -17, y: -37}
+        - {x: -19, y: -37}
+        - {x: -23, y: -42}
+        - {x: -24, y: -45}
+        - {x: -19, y: -55}
+        - {x: 2, y: -55}
+        - {x: 28, y: -36}
+        - {x: 35, y: -19}
+        - {x: 35, y: 39}
+        - {x: 5, y: 55}
+    - name: PlayerMoveRight_7
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 9
+        width: 69
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 35}
+        - {x: 7.5, y: 53}
+        - {x: -32.5, y: 53}
+        - {x: -34.5, y: 52}
+        - {x: -34.5, y: -53}
+        - {x: 15.5, y: -53}
+        - {x: 19.5, y: -50}
+        - {x: 16.5, y: -41}
+        - {x: 25.5, y: -42}
+        - {x: 34.5, y: -20}
+    - name: PlayerMoveRight_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 10
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 52.5}
+        - {x: -35.5, y: 32.5}
+        - {x: -35.5, y: -48.5}
+        - {x: -32.5, y: -52.5}
+        - {x: 27.5, y: -52.5}
+        - {x: 35.5, y: -17.5}
+        - {x: 35.5, y: 33.5}
+        - {x: 15.5, y: 52.5}
+    - name: PlayerMoveRight_9
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 7
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -24.5}
+        - {x: 33, y: -4.5}
+        - {x: 36, y: 6.5}
+        - {x: 36, y: 33.5}
+        - {x: 14, y: 53.5}
+        - {x: -18, y: 53.5}
+        - {x: -34, y: 34.5}
+        - {x: -36, y: 22.5}
+        - {x: -36, y: -42.5}
+        - {x: -26, y: -53.5}
+        - {x: 23, y: -53.5}
+        - {x: 36, y: -19.5}
+        - {x: 36, y: -4.5}
+        - {x: 29, y: -8.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

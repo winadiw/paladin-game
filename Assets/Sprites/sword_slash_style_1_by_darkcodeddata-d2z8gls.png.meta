@@ -1,0 +1,801 @@
+fileFormatVersion: 2
+guid: 93da5dd3cef8e2c449c0fd92195ff1c7
+timeCreated: 1467082911
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sword_slash_style_1_by_darkcodeddata-d2z8gls_0
+    21300002: sword_slash_style_1_by_darkcodeddata-d2z8gls_1
+    21300004: sword_slash_style_1_by_darkcodeddata-d2z8gls_2
+    21300006: sword_slash_style_1_by_darkcodeddata-d2z8gls_3
+    21300008: sword_slash_style_1_by_darkcodeddata-d2z8gls_4
+    21300010: sword_slash_style_1_by_darkcodeddata-d2z8gls_5
+    21300012: sword_slash_style_1_by_darkcodeddata-d2z8gls_6
+    21300014: sword_slash_style_1_by_darkcodeddata-d2z8gls_7
+    21300016: sword_slash_style_1_by_darkcodeddata-d2z8gls_8
+    21300018: sword_slash_style_1_by_darkcodeddata-d2z8gls_9
+    21300020: sword_slash_style_1_by_darkcodeddata-d2z8gls_10
+    21300022: sword_slash_style_1_by_darkcodeddata-d2z8gls_11
+    21300024: sword_slash_style_1_by_darkcodeddata-d2z8gls_12
+    21300026: sword_slash_style_1_by_darkcodeddata-d2z8gls_13
+    21300028: sword_slash_style_1_by_darkcodeddata-d2z8gls_14
+    21300030: sword_slash_style_1_by_darkcodeddata-d2z8gls_15
+    21300032: sword_slash_style_1_by_darkcodeddata-d2z8gls_16
+    21300034: sword_slash_style_1_by_darkcodeddata-d2z8gls_17
+    21300036: sword_slash_style_1_by_darkcodeddata-d2z8gls_18
+    21300038: sword_slash_style_1_by_darkcodeddata-d2z8gls_19
+    21300040: sword_slash_style_1_by_darkcodeddata-d2z8gls_20
+    21300042: sword_slash_style_1_by_darkcodeddata-d2z8gls_21
+    21300044: sword_slash_style_1_by_darkcodeddata-d2z8gls_22
+    21300046: sword_slash_style_1_by_darkcodeddata-d2z8gls_23
+    21300048: sword_slash_style_1_by_darkcodeddata-d2z8gls_24
+    21300050: sword_slash_style_1_by_darkcodeddata-d2z8gls_25
+    21300052: sword_slash_style_1_by_darkcodeddata-d2z8gls_26
+    21300054: sword_slash_style_1_by_darkcodeddata-d2z8gls_27
+    21300056: sword_slash_style_1_by_darkcodeddata-d2z8gls_28
+    21300058: sword_slash_style_1_by_darkcodeddata-d2z8gls_29
+    21300060: sword_slash_style_1_by_darkcodeddata-d2z8gls_30
+    21300062: sword_slash_style_1_by_darkcodeddata-d2z8gls_31
+    21300064: sword_slash_style_1_by_darkcodeddata-d2z8gls_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 722
+        width: 176
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 88.5}
+        - {x: -47, y: 88.5}
+        - {x: -88, y: 60.5}
+        - {x: -88, y: -26.5}
+        - {x: -85, y: -52.5}
+        - {x: -45, y: -88.5}
+        - {x: 23, y: -88.5}
+        - {x: 57, y: -80.5}
+        - {x: 88, y: -58.5}
+        - {x: 88, y: 58.5}
+        - {x: 56, y: 81.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 723
+        width: 174
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -82.5}
+        - {x: 27, y: -81.5}
+        - {x: 60, y: -72.5}
+        - {x: 87, y: -59.5}
+        - {x: 87, y: 61.5}
+        - {x: 61, y: 87.5}
+        - {x: -78, y: 87.5}
+        - {x: -87, y: 71.5}
+        - {x: -87, y: -21.5}
+        - {x: -60, y: -87.5}
+        - {x: 22, y: -87.5}
+        - {x: 21, y: -84.5}
+        - {x: 21, y: -79.5}
+        - {x: 20, y: -77.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 724
+        width: 172
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -77.5}
+        - {x: 23, y: -82.5}
+        - {x: 29, y: -83.5}
+        - {x: 68, y: -73.5}
+        - {x: 86, y: -41.5}
+        - {x: 86, y: -10.5}
+        - {x: 53, y: 31.5}
+        - {x: 50, y: 31.5}
+        - {x: 46, y: 29.5}
+        - {x: 53, y: 33.5}
+        - {x: 70, y: 56.5}
+        - {x: 37, y: 86.5}
+        - {x: 11, y: 86.5}
+        - {x: -5, y: 79.5}
+        - {x: -8, y: 78.5}
+        - {x: -11, y: 86.5}
+        - {x: -19, y: 86.5}
+        - {x: -29, y: 80.5}
+        - {x: -66, y: 69.5}
+        - {x: -86, y: 52.5}
+        - {x: -86, y: -32.5}
+        - {x: -73, y: -73.5}
+        - {x: -38, y: -86.5}
+        - {x: 20, y: -86.5}
+        - {x: 21, y: -84.5}
+        - {x: 21, y: -79.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_3
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 737
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 37}
+        - {x: -50, y: 29}
+        - {x: -50, y: -29}
+        - {x: -42, y: -37}
+        - {x: 16, y: -37}
+        - {x: 30, y: -34}
+        - {x: 50, y: 4}
+        - {x: 50, y: 37}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 740
+        width: 126
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 56}
+        - {x: -63, y: 0}
+        - {x: -63, y: -53}
+        - {x: -62, y: -56}
+        - {x: 24, y: -56}
+        - {x: 63, y: -39}
+        - {x: 63, y: 45}
+        - {x: 53, y: 56}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 562
+        width: 122
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 56.5}
+        - {x: -20, y: 47.5}
+        - {x: -61, y: -8.5}
+        - {x: -61, y: -44.5}
+        - {x: -58, y: -56.5}
+        - {x: 14, y: -56.5}
+        - {x: 44, y: -50.5}
+        - {x: 61, y: -23.5}
+        - {x: 61, y: 56.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 586
+        width: 109
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 45}
+        - {x: -54.5, y: 6}
+        - {x: -54.5, y: -45}
+        - {x: 54.5, y: -45}
+        - {x: 54.5, y: 35}
+        - {x: 53.5, y: 45}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_7
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 583
+        width: 150
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: -33.5}
+        - {x: 52, y: -28.5}
+        - {x: 47, y: -29.5}
+        - {x: 44, y: -32.5}
+        - {x: 72, y: -2.5}
+        - {x: 75, y: -1.5}
+        - {x: 75, y: 50.5}
+        - {x: 72, y: 64.5}
+        - {x: 1, y: 64.5}
+        - {x: -75, y: -0.5}
+        - {x: -75, y: -33.5}
+        - {x: -12, y: -22.5}
+        - {x: -8, y: -20.5}
+        - {x: -65, y: -61.5}
+        - {x: -65, y: -64.5}
+        - {x: 34, y: -64.5}
+        - {x: 55, y: -55.5}
+        - {x: 57, y: -50.5}
+        - {x: 54, y: -46.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 580
+        width: 143
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: -2}
+        - {x: 71.5, y: 59}
+        - {x: 59.5, y: 64}
+        - {x: 2.5, y: 64}
+        - {x: -33.5, y: 42}
+        - {x: -51.5, y: 20}
+        - {x: -71.5, y: -1}
+        - {x: -71.5, y: -64}
+        - {x: 35.5, y: -64}
+        - {x: 60.5, y: -60}
+        - {x: 66.5, y: -31}
+        - {x: 52.5, y: -25}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_9
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 574
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 63}
+        - {x: -66, y: 25}
+        - {x: -66, y: -41}
+        - {x: -56, y: -63}
+        - {x: 27, y: -63}
+        - {x: 66, y: -52}
+        - {x: 66, y: 63}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 392
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 8.5}
+        - {x: 42, y: 15.5}
+        - {x: 21, y: 28.5}
+        - {x: 37, y: 51.5}
+        - {x: 37, y: 53.5}
+        - {x: -20, y: 53.5}
+        - {x: -57, y: 35.5}
+        - {x: -57, y: -52.5}
+        - {x: -54, y: -53.5}
+        - {x: 45, y: -53.5}
+        - {x: 57, y: -41.5}
+        - {x: 57, y: -6.5}
+        - {x: 51, y: -4.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 405
+        width: 120
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -47}
+        - {x: 4, y: -49}
+        - {x: 13, y: -49}
+        - {x: 13, y: -48}
+        - {x: 10, y: -45}
+        - {x: 6, y: -45}
+      - - {x: 51, y: 9}
+        - {x: 49, y: 47}
+        - {x: 48, y: 49}
+        - {x: 29, y: 49}
+        - {x: -2, y: 33}
+        - {x: -56, y: 30}
+        - {x: -60, y: 29}
+        - {x: -60, y: -41}
+        - {x: -30, y: -49}
+        - {x: 46, y: -49}
+        - {x: 60, y: -45}
+        - {x: 60, y: -7}
+        - {x: 59, y: -5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 402
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 405
+        width: 121
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -64.5}
+        - {x: 4.5, y: -66.5}
+        - {x: 13.5, y: -66.5}
+        - {x: 13.5, y: -65.5}
+        - {x: 10.5, y: -62.5}
+        - {x: 6.5, y: -62.5}
+      - - {x: 19.5, y: 66.5}
+        - {x: -43.5, y: 66.5}
+        - {x: -60.5, y: 40.5}
+        - {x: -60.5, y: -53.5}
+        - {x: -25.5, y: -66.5}
+        - {x: 5.5, y: -66.5}
+        - {x: 13.5, y: -58.5}
+        - {x: 13.5, y: -59.5}
+        - {x: 14.5, y: -65.5}
+        - {x: 18.5, y: -66.5}
+        - {x: 60.5, y: -66.5}
+        - {x: 60.5, y: 39.5}
+        - {x: 59.5, y: 43.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 402
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_15
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 398
+        width: 122
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 67.5}
+        - {x: -30, y: 67.5}
+        - {x: -38, y: 54.5}
+        - {x: -61, y: 12.5}
+        - {x: -61, y: -45.5}
+        - {x: -51, y: -67.5}
+        - {x: 33, y: -67.5}
+        - {x: 61, y: -55.5}
+        - {x: 61, y: -18.5}
+        - {x: 25, y: 63.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_16
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 389
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 65}
+        - {x: -61, y: 59}
+        - {x: -61, y: -25}
+        - {x: -57, y: -42}
+        - {x: -16, y: -65}
+        - {x: 28, y: -65}
+        - {x: 61, y: -45}
+        - {x: 61, y: -9}
+        - {x: 28, y: 65}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 204
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: -20}
+        - {x: 61, y: -11}
+        - {x: 56, y: -7}
+        - {x: 48, y: -8}
+        - {x: 52, y: 4}
+        - {x: 55, y: 24}
+        - {x: 10, y: 63}
+        - {x: -3, y: 63}
+        - {x: -3, y: 54}
+        - {x: -5, y: 41}
+        - {x: -5, y: 39}
+        - {x: -5, y: 41}
+        - {x: -4, y: 48}
+        - {x: -13, y: 63}
+        - {x: -28, y: 63}
+        - {x: -61, y: 46}
+        - {x: -61, y: -47}
+        - {x: -22, y: -63}
+        - {x: 34, y: -63}
+        - {x: 61, y: -43}
+        - {x: 61, y: -28}
+        - {x: 58, y: -26}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 190
+        width: 127
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 75.5}
+        - {x: -6.5, y: 42.5}
+        - {x: -6.5, y: 40.5}
+        - {x: -6.5, y: 42.5}
+        - {x: -7.5, y: 48.5}
+        - {x: -9.5, y: 52.5}
+        - {x: -31.5, y: 62.5}
+        - {x: -63.5, y: 38.5}
+        - {x: -63.5, y: -60.5}
+        - {x: -26.5, y: -75.5}
+        - {x: 63.5, y: -75.5}
+        - {x: 63.5, y: 11.5}
+        - {x: 2.5, y: 75.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 195
+        width: 126
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 74.5}
+        - {x: -63, y: -61.5}
+        - {x: -62, y: -74.5}
+        - {x: 63, y: -74.5}
+        - {x: 63, y: 11.5}
+        - {x: 23, y: 74.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 198
+        width: 129
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: 67.5}
+        - {x: -63.5, y: 65.5}
+        - {x: -64.5, y: 62.5}
+        - {x: -64.5, y: -17.5}
+        - {x: -13.5, y: -66.5}
+        - {x: -8.5, y: -67.5}
+        - {x: 64.5, y: -67.5}
+        - {x: 64.5, y: -5.5}
+        - {x: 15.5, y: 67.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 198
+        width: 136
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 67}
+        - {x: -68, y: 45}
+        - {x: -68, y: -14}
+        - {x: -65, y: -23}
+        - {x: -39, y: -25}
+        - {x: -8, y: -40}
+        - {x: -6, y: -34}
+        - {x: -8, y: -43}
+        - {x: -16, y: -40}
+        - {x: -30, y: -30}
+        - {x: -31, y: -30}
+        - {x: -33, y: -32}
+        - {x: -32, y: -41}
+        - {x: -29, y: -47}
+        - {x: -22, y: -67}
+        - {x: 13, y: -67}
+        - {x: 68, y: -44}
+        - {x: 68, y: -21}
+        - {x: 49, y: 26}
+        - {x: 8, y: 67}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 16
+        width: 143
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 62.5}
+        - {x: -58.5, y: 62.5}
+        - {x: -71.5, y: 57.5}
+        - {x: -71.5, y: -33.5}
+        - {x: -26.5, y: -62.5}
+        - {x: -2.5, y: -62.5}
+        - {x: 1.5, y: -60.5}
+        - {x: 71.5, y: -48.5}
+        - {x: 71.5, y: 2.5}
+      - - {x: -3.5, y: 58.5}
+        - {x: -0.5, y: 55.5}
+        - {x: 2.5, y: 56.5}
+        - {x: 2.5, y: 58.5}
+        - {x: -0.5, y: 61.5}
+        - {x: -2.5, y: 61.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 15
+        width: 140
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -15}
+        - {x: -69, y: -21}
+        - {x: -35, y: -62}
+        - {x: 23, y: -62}
+        - {x: 70, y: -47}
+        - {x: 70, y: -8}
+        - {x: 16, y: 60}
+        - {x: 6, y: 62}
+        - {x: -59, y: 62}
+        - {x: -70, y: 52}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 55
+        width: 142
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: -48.5}
+        - {x: 71, y: -34.5}
+        - {x: 54, y: -5.5}
+        - {x: -9, y: 48.5}
+        - {x: -51, y: 48.5}
+        - {x: -71, y: 41.5}
+        - {x: -71, y: -34.5}
+        - {x: -68, y: -41.5}
+        - {x: -31, y: -48.5}
+        - {x: 2, y: -48.5}
+        - {x: 2, y: -37.5}
+        - {x: 2, y: -48.5}
+      - - {x: -2, y: -11.5}
+        - {x: -4, y: -15.5}
+        - {x: -4, y: -21.5}
+        - {x: 6, y: -21.5}
+        - {x: 6, y: -14.5}
+        - {x: 5, y: -11.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 52
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_26
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 45
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 21.5}
+        - {x: 8, y: 20.5}
+        - {x: 13, y: 14.5}
+        - {x: 17, y: 12.5}
+        - {x: 11, y: 12.5}
+        - {x: 3, y: 21.5}
+        - {x: -23, y: 21.5}
+        - {x: -23, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 23, y: -19.5}
+        - {x: 23, y: 21.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_27
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 62
+        width: 128
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -16.5}
+        - {x: -5, y: -8.5}
+        - {x: -12, y: 1.5}
+        - {x: -19, y: 5.5}
+        - {x: -12, y: 2.5}
+        - {x: 19, y: -41.5}
+        - {x: 46, y: -41.5}
+        - {x: 64, y: -33.5}
+        - {x: 64, y: -15.5}
+        - {x: 45, y: 11.5}
+        - {x: 4, y: 41.5}
+        - {x: -50, y: 41.5}
+        - {x: -64, y: 33.5}
+        - {x: -64, y: -41.5}
+        - {x: 8, y: -41.5}
+        - {x: 8, y: -38.5}
+        - {x: 7, y: -36.5}
+        - {x: -9, y: -22.5}
+      - - {x: 41, y: -27.5}
+        - {x: 23, y: -27.5}
+        - {x: 22, y: -31.5}
+        - {x: 22, y: -39.5}
+        - {x: 24, y: -41.5}
+        - {x: 46, y: -41.5}
+        - {x: 49, y: -34.5}
+        - {x: 49, y: -33.5}
+        - {x: 47, y: -28.5}
+      - - {x: 4, y: -11.5}
+        - {x: 2, y: -13.5}
+        - {x: 2, y: -18.5}
+        - {x: 3, y: -21.5}
+        - {x: 12, y: -21.5}
+        - {x: 12, y: -13.5}
+        - {x: 8, y: -11.5}
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_28
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 52
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_29
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 58
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_30
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 42
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_31
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 42
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sword_slash_style_1_by_darkcodeddata-d2z8gls_32
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 45
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

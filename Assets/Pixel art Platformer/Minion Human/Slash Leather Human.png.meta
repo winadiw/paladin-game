@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 6f0ab3495fe6bce4d9e31da97530c0d7
+timeCreated: 1469453413
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Slash Leather Human_0
+    21300002: Slash Leather Human_1
+    21300004: Slash Leather Human_2
+    21300006: Slash Leather Human_3
+    21300008: Slash Leather Human_4
+    21300010: Slash Leather Human_5
+    21300012: Slash Leather Human_6
+    21300014: Slash Leather Human_7
+    21300016: Slash Leather Human_8
+    21300018: Slash Leather Human_9
+    21300020: Slash Leather Human_10
+    21300022: Slash Leather Human_11
+    21300024: Slash Leather Human_12
+    21300026: Slash Leather Human_13
+    21300028: Slash Leather Human_14
+    21300030: Slash Leather Human_15
+    21300032: Slash Leather Human_16
+    21300034: Slash Leather Human_17
+    21300036: Slash Leather Human_18
+    21300038: Slash Leather Human_19
+    21300040: Slash Leather Human_20
+    21300042: Slash Leather Human_21
+    21300044: Slash Leather Human_22
+    21300046: Slash Leather Human_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Slash Leather Human_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22}
+        - {x: -17, y: 12}
+        - {x: -17, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -30}
+        - {x: 17, y: 4}
+        - {x: 8, y: 22}
+    - name: Slash Leather Human_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -13, y: 14}
+        - {x: -15, y: 5}
+        - {x: -15, y: -31}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 4}
+        - {x: 9, y: 21}
+    - name: Slash Leather Human_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -31}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: -4}
+        - {x: 14, y: 8}
+        - {x: 7, y: 21}
+        - {x: -6, y: 21}
+        - {x: -15, y: 14}
+    - name: Slash Leather Human_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22}
+        - {x: -14, y: 16}
+        - {x: -15, y: 9}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -28}
+        - {x: 17, y: 7}
+        - {x: 9, y: 22}
+    - name: Slash Leather Human_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22}
+        - {x: -16, y: -1}
+        - {x: -16, y: -32}
+        - {x: 22, y: -32}
+        - {x: 24, y: -22}
+        - {x: 24, y: 10}
+        - {x: 10, y: 22}
+    - name: Slash Leather Human_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 8}
+        - {x: 14, y: 12}
+        - {x: 5, y: 22}
+        - {x: -6, y: 22}
+        - {x: -16, y: -1}
+        - {x: -16, y: -32}
+        - {x: 26, y: -32}
+        - {x: 27, y: -29}
+        - {x: 27, y: 9}
+        - {x: 19, y: 12}
+    - name: Slash Leather Human_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 23}
+        - {x: -17, y: 15}
+        - {x: -16, y: 11}
+        - {x: -22, y: -11}
+        - {x: -22, y: -17}
+        - {x: -12, y: -29}
+        - {x: -8, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -30}
+        - {x: 24, y: 15}
+        - {x: 24, y: 23}
+    - name: Slash Leather Human_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 21}
+        - {x: -6, y: 21}
+        - {x: -19, y: 13}
+        - {x: -18, y: 9}
+        - {x: -23, y: -15}
+        - {x: -23, y: -29}
+        - {x: -7, y: -32}
+        - {x: 11, y: -32}
+        - {x: 12, y: -30}
+        - {x: 22, y: -1}
+        - {x: 22, y: 17}
+    - name: Slash Leather Human_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 23}
+        - {x: -18, y: 17}
+        - {x: -18, y: -4}
+        - {x: -14, y: -29}
+        - {x: -12, y: -31}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 22, y: -7}
+        - {x: 22, y: 23}
+    - name: Slash Leather Human_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 23}
+        - {x: -22, y: 16}
+        - {x: -27, y: -1}
+        - {x: -27, y: -27}
+        - {x: -17, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -4}
+        - {x: 21, y: 23}
+    - name: Slash Leather Human_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 23}
+        - {x: -32, y: 9}
+        - {x: -32, y: -16}
+        - {x: -28, y: -21}
+        - {x: -11, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: -31}
+        - {x: 20, y: 5}
+        - {x: 20, y: 23}
+    - name: Slash Leather Human_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 23}
+        - {x: -23, y: 17}
+        - {x: -32, y: 1}
+        - {x: -32, y: -4}
+        - {x: -30, y: -5}
+        - {x: -12, y: -31}
+        - {x: -7, y: -32}
+        - {x: 11, y: -32}
+        - {x: 18, y: -18}
+        - {x: 20, y: 0}
+        - {x: 20, y: 23}
+    - name: Slash Leather Human_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -31}
+        - {x: 17, y: 4}
+        - {x: 16, y: 16}
+        - {x: 6, y: 26}
+        - {x: -13, y: 28}
+        - {x: -17, y: 28}
+        - {x: -17, y: -24}
+        - {x: -16, y: -31}
+        - {x: -12, y: -32}
+        - {x: -2, y: -32}
+        - {x: 0, y: -28}
+        - {x: 0, y: -24}
+        - {x: 1, y: -28}
+    - name: Slash Leather Human_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 28}
+        - {x: -16, y: 27}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 17}
+        - {x: 5, y: 24}
+    - name: Slash Leather Human_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 18}
+        - {x: -1, y: 26}
+        - {x: -17, y: 26}
+        - {x: -17, y: -31}
+        - {x: -13, y: -32}
+        - {x: -2, y: -32}
+        - {x: 0, y: -28}
+        - {x: 0, y: -23}
+        - {x: 0, y: -29}
+    - name: Slash Leather Human_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 27}
+        - {x: -14, y: 26}
+        - {x: -14, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 16}
+        - {x: 7, y: 23}
+    - name: Slash Leather Human_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 28}
+        - {x: -14, y: 28}
+        - {x: -14, y: -32}
+        - {x: 23, y: -32}
+        - {x: 25, y: -30}
+        - {x: 25, y: 19}
+        - {x: 9, y: 27}
+    - name: Slash Leather Human_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 28}
+        - {x: -15, y: 28}
+        - {x: -15, y: -32}
+        - {x: 28, y: -32}
+        - {x: 32, y: -30}
+        - {x: 32, y: 10}
+        - {x: 26, y: 21}
+    - name: Slash Leather Human_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 23}
+        - {x: -14, y: 23}
+        - {x: -24, y: 19}
+        - {x: -24, y: 5}
+        - {x: -17, y: -32}
+        - {x: 19, y: -32}
+        - {x: 22, y: -27}
+        - {x: 22, y: 2}
+        - {x: 16, y: 19}
+    - name: Slash Leather Human_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21}
+        - {x: -22, y: -3}
+        - {x: -13, y: -32}
+        - {x: 23, y: -32}
+        - {x: 23, y: 15}
+        - {x: 16, y: 21}
+    - name: Slash Leather Human_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -22, y: 1}
+        - {x: -18, y: -32}
+        - {x: 12, y: -32}
+        - {x: 18, y: -30}
+        - {x: 18, y: 17}
+        - {x: 12, y: 23}
+    - name: Slash Leather Human_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 23}
+        - {x: -11, y: 23}
+        - {x: -21, y: 19}
+        - {x: -21, y: -32}
+        - {x: 27, y: -32}
+        - {x: 27, y: 4}
+        - {x: 21, y: 20}
+    - name: Slash Leather Human_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 23}
+        - {x: -20, y: 20}
+        - {x: -20, y: -4}
+        - {x: -16, y: -32}
+        - {x: 24, y: -32}
+        - {x: 32, y: -26}
+        - {x: 32, y: 10}
+        - {x: 25, y: 23}
+    - name: Slash Leather Human_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 23}
+        - {x: -12, y: 23}
+        - {x: -20, y: 20}
+        - {x: -20, y: -3}
+        - {x: -18, y: -18}
+        - {x: -11, y: -32}
+        - {x: 11, y: -32}
+        - {x: 18, y: -30}
+        - {x: 32, y: -4}
+        - {x: 32, y: 4}
+        - {x: 24, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

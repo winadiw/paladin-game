@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{737EDDB1-6EC0-D5D3-7810-74032CC1EBC6}") = "GDAS Paladin", "Assembly-CSharp.csproj", "{47FD021F-A103-C433-3CCF-F21CEAE7D7DD}"
+EndProject
+Project("{737EDDB1-6EC0-D5D3-7810-74032CC1EBC6}") = "GDAS Paladin", "Assembly-CSharp-Editor.csproj", "{AD0EFC76-8D72-B296-017F-011F31A4CBAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47FD021F-A103-C433-3CCF-F21CEAE7D7DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FD021F-A103-C433-3CCF-F21CEAE7D7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FD021F-A103-C433-3CCF-F21CEAE7D7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FD021F-A103-C433-3CCF-F21CEAE7D7DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0EFC76-8D72-B296-017F-011F31A4CBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0EFC76-8D72-B296-017F-011F31A4CBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0EFC76-8D72-B296-017F-011F31A4CBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0EFC76-8D72-B296-017F-011F31A4CBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

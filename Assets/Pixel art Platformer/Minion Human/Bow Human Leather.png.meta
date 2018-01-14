@@ -1,0 +1,1204 @@
+fileFormatVersion: 2
+guid: 2460c73f50e73c849b9f9aa6e13cb6b4
+timeCreated: 1469453372
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bow Human Leather_0
+    21300002: Bow Human Leather_1
+    21300004: Bow Human Leather_2
+    21300006: Bow Human Leather_3
+    21300008: Bow Human Leather_4
+    21300010: Bow Human Leather_5
+    21300012: Bow Human Leather_6
+    21300014: Bow Human Leather_7
+    21300016: Bow Human Leather_8
+    21300018: Bow Human Leather_9
+    21300020: Bow Human Leather_10
+    21300022: Bow Human Leather_11
+    21300024: Bow Human Leather_12
+    21300026: Bow Human Leather_13
+    21300028: Bow Human Leather_14
+    21300030: Bow Human Leather_15
+    21300032: Bow Human Leather_16
+    21300034: Bow Human Leather_17
+    21300036: Bow Human Leather_18
+    21300038: Bow Human Leather_19
+    21300040: Bow Human Leather_20
+    21300042: Bow Human Leather_21
+    21300044: Bow Human Leather_22
+    21300046: Bow Human Leather_23
+    21300048: Bow Human Leather_24
+    21300050: Bow Human Leather_25
+    21300052: Bow Human Leather_26
+    21300054: Bow Human Leather_27
+    21300056: Bow Human Leather_28
+    21300058: Bow Human Leather_29
+    21300060: Bow Human Leather_30
+    21300062: Bow Human Leather_31
+    21300064: Bow Human Leather_32
+    21300066: Bow Human Leather_33
+    21300068: Bow Human Leather_34
+    21300070: Bow Human Leather_35
+    21300072: Bow Human Leather_36
+    21300074: Bow Human Leather_37
+    21300076: Bow Human Leather_38
+    21300078: Bow Human Leather_39
+    21300080: Bow Human Leather_40
+    21300082: Bow Human Leather_41
+    21300084: Bow Human Leather_42
+    21300086: Bow Human Leather_43
+    21300088: Bow Human Leather_44
+    21300090: Bow Human Leather_45
+    21300092: Bow Human Leather_46
+    21300094: Bow Human Leather_47
+    21300096: Bow Human Leather_48
+    21300098: Bow Human Leather_49
+    21300100: Bow Human Leather_50
+    21300102: Bow Human Leather_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bow Human Leather_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -26, y: -1}
+        - {x: -26, y: -12}
+        - {x: -16, y: -32}
+        - {x: 12, y: -32}
+        - {x: 20, y: -24}
+        - {x: 20, y: -2}
+        - {x: 7, y: 22}
+    - name: Bow Human Leather_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -22, y: 17}
+        - {x: -23, y: 11}
+        - {x: -23, y: -11}
+        - {x: -12, y: -32}
+        - {x: 16, y: -32}
+        - {x: 19, y: -26}
+        - {x: 19, y: -9}
+        - {x: 11, y: 19}
+    - name: Bow Human Leather_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: -10, y: 20}
+        - {x: -19, y: 18}
+        - {x: -19, y: -24}
+        - {x: -18, y: -32}
+        - {x: 14, y: -32}
+        - {x: 21, y: -20}
+        - {x: 21, y: -6}
+        - {x: 15, y: 17}
+    - name: Bow Human Leather_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 22}
+        - {x: -14, y: 13}
+        - {x: -14, y: -4}
+        - {x: -10, y: -26}
+        - {x: -5, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -26}
+        - {x: 12, y: 19}
+        - {x: 4, y: 22}
+    - name: Bow Human Leather_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25}
+        - {x: -14, y: 19}
+        - {x: -14, y: -15}
+        - {x: -10, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 25}
+    - name: Bow Human Leather_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 28}
+        - {x: -9, y: 28}
+        - {x: -14, y: 21}
+        - {x: -14, y: -16}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -25}
+        - {x: 15, y: 17}
+    - name: Bow Human Leather_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 29}
+        - {x: -8, y: 29}
+        - {x: -14, y: 21}
+        - {x: -14, y: -14}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 12}
+        - {x: 14, y: 17}
+    - name: Bow Human Leather_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 30}
+        - {x: -9, y: 30}
+        - {x: -14, y: 21}
+        - {x: -14, y: -10}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 7}
+        - {x: 10, y: 23}
+    - name: Bow Human Leather_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 27}
+        - {x: -6, y: 27}
+        - {x: -14, y: 18}
+        - {x: -14, y: -21}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 18, y: -21}
+        - {x: 18, y: 6}
+        - {x: 12, y: 25}
+    - name: Bow Human Leather_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -14, y: 25}
+        - {x: -14, y: -16}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 17, y: -15}
+        - {x: 17, y: 22}
+        - {x: 5, y: 30}
+    - name: Bow Human Leather_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -14, y: 25}
+        - {x: -14, y: -16}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -29}
+        - {x: 12, y: 26}
+        - {x: 5, y: 30}
+    - name: Bow Human Leather_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 30}
+        - {x: -14, y: 20}
+        - {x: -14, y: -16}
+        - {x: -10, y: -32}
+        - {x: 11, y: -32}
+        - {x: 12, y: -31}
+        - {x: 12, y: 26}
+        - {x: 11, y: 30}
+    - name: Bow Human Leather_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -14, y: 25}
+        - {x: -14, y: -16}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 12, y: -29}
+        - {x: 12, y: 26}
+        - {x: 5, y: 30}
+    - name: Bow Human Leather_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 22}
+        - {x: -15, y: 17}
+        - {x: -16, y: 9}
+        - {x: -27, y: 5}
+        - {x: -27, y: -11}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 25, y: -12}
+        - {x: 25, y: 20}
+        - {x: 17, y: 22}
+    - name: Bow Human Leather_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 22}
+        - {x: -22, y: 15}
+        - {x: -22, y: -20}
+        - {x: -18, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -26}
+        - {x: 25, y: 5}
+        - {x: 25, y: 22}
+      - - {x: -1, y: 32}
+        - {x: 0, y: 29}
+        - {x: 7, y: 29}
+        - {x: 9, y: 31}
+        - {x: 9, y: 32}
+    - name: Bow Human Leather_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -23, y: 18}
+        - {x: -27, y: -5}
+        - {x: -27, y: -16}
+        - {x: -23, y: -18}
+        - {x: -9, y: -32}
+        - {x: 11, y: -32}
+        - {x: 25, y: -1}
+        - {x: 25, y: 20}
+        - {x: 21, y: 22}
+      - - {x: -2, y: 32}
+        - {x: -1, y: 29}
+        - {x: 6, y: 29}
+        - {x: 8, y: 31}
+        - {x: 8, y: 32}
+    - name: Bow Human Leather_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 22}
+        - {x: -15, y: 17}
+        - {x: -26, y: -11}
+        - {x: -26, y: -12}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 21, y: -12}
+        - {x: 25, y: 9}
+        - {x: 25, y: 22}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Bow Human Leather_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -30, y: 3}
+        - {x: -30, y: -9}
+        - {x: -10, y: -32}
+        - {x: 15, y: -32}
+        - {x: 25, y: -8}
+        - {x: 25, y: 22}
+      - - {x: 29, y: 1}
+        - {x: 31, y: -1}
+        - {x: 32, y: -1}
+        - {x: 32, y: 4}
+        - {x: 30, y: 4}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Bow Human Leather_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 25}
+        - {x: -10, y: 25}
+        - {x: -32, y: 11}
+        - {x: -32, y: -7}
+        - {x: -15, y: -32}
+        - {x: 17, y: -32}
+        - {x: 25, y: 15}
+        - {x: 25, y: 21}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Bow Human Leather_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 27}
+        - {x: -13, y: 24}
+        - {x: -32, y: 7}
+        - {x: -32, y: -4}
+        - {x: -10, y: -32}
+        - {x: 15, y: -32}
+        - {x: 25, y: -5}
+        - {x: 25, y: 22}
+        - {x: 0, y: 27}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Bow Human Leather_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 25}
+        - {x: -31, y: 10}
+        - {x: -31, y: -20}
+        - {x: -13, y: -32}
+        - {x: 18, y: -32}
+        - {x: 25, y: 7}
+        - {x: 25, y: 23}
+        - {x: 17, y: 25}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Bow Human Leather_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22}
+        - {x: -16, y: 18}
+        - {x: -28, y: 2}
+        - {x: -28, y: -5}
+        - {x: -10, y: -30}
+        - {x: -9, y: -32}
+        - {x: 16, y: -32}
+        - {x: 25, y: -8}
+        - {x: 25, y: 22}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Bow Human Leather_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 23}
+        - {x: -21, y: 17}
+        - {x: -21, y: -12}
+        - {x: -9, y: -32}
+        - {x: 16, y: -32}
+        - {x: 25, y: -5}
+        - {x: 25, y: 23}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Bow Human Leather_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 23}
+        - {x: -19, y: 15}
+        - {x: -21, y: 8}
+        - {x: -21, y: -17}
+        - {x: -9, y: -32}
+        - {x: 15, y: -32}
+        - {x: 25, y: -8}
+        - {x: 25, y: 22}
+        - {x: 15, y: 23}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Bow Human Leather_24
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 23}
+        - {x: -21, y: 18}
+        - {x: -21, y: -22}
+        - {x: -17, y: -32}
+        - {x: 14, y: -32}
+        - {x: 25, y: 1}
+        - {x: 25, y: 19}
+        - {x: 22, y: 23}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Bow Human Leather_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 23}
+        - {x: -27, y: 4}
+        - {x: -27, y: -21}
+        - {x: -18, y: -32}
+        - {x: 20, y: -32}
+        - {x: 25, y: 5}
+        - {x: 25, y: 23}
+      - - {x: -4, y: 32}
+        - {x: -3, y: 29}
+        - {x: 5, y: 29}
+        - {x: 7, y: 31}
+        - {x: 7, y: 32}
+    - name: Bow Human Leather_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 27}
+        - {x: -18, y: 26}
+        - {x: -20, y: -5}
+        - {x: -20, y: -17}
+        - {x: -16, y: -32}
+        - {x: 18, y: -32}
+        - {x: 24, y: -22}
+        - {x: 24, y: 7}
+        - {x: 8, y: 27}
+    - name: Bow Human Leather_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 25}
+        - {x: -14, y: 27}
+        - {x: -20, y: 27}
+        - {x: -22, y: 4}
+        - {x: -22, y: -24}
+        - {x: -12, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -24}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: Bow Human Leather_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 27}
+        - {x: -21, y: 21}
+        - {x: -21, y: -29}
+        - {x: -17, y: -32}
+        - {x: 5, y: -32}
+        - {x: 13, y: -30}
+        - {x: 19, y: -8}
+        - {x: 19, y: 17}
+        - {x: 0, y: 27}
+    - name: Bow Human Leather_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 27}
+        - {x: -17, y: 26}
+        - {x: -17, y: -13}
+        - {x: -9, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: 2}
+        - {x: 14, y: 16}
+        - {x: 4, y: 23}
+    - name: Bow Human Leather_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 27}
+        - {x: -17, y: 26}
+        - {x: -17, y: 8}
+        - {x: -16, y: -8}
+        - {x: -15, y: -30}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 21}
+        - {x: 13, y: 27}
+    - name: Bow Human Leather_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 27}
+        - {x: -17, y: 27}
+        - {x: -17, y: -13}
+        - {x: -16, y: -30}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 14, y: -8}
+        - {x: 14, y: 19}
+        - {x: 5, y: 25}
+    - name: Bow Human Leather_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 27}
+        - {x: -17, y: 27}
+        - {x: -17, y: 9}
+        - {x: -12, y: -28}
+        - {x: -8, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -31}
+        - {x: 14, y: -3}
+        - {x: 14, y: 18}
+        - {x: 5, y: 26}
+    - name: Bow Human Leather_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 27}
+        - {x: -16, y: 27}
+        - {x: -17, y: 25}
+        - {x: -17, y: -22}
+        - {x: -15, y: -30}
+        - {x: -10, y: -32}
+        - {x: 7, y: -32}
+        - {x: 9, y: -31}
+        - {x: 14, y: -15}
+        - {x: 14, y: 16}
+    - name: Bow Human Leather_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 27}
+        - {x: -17, y: -31}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -14}
+        - {x: 14, y: 19}
+        - {x: -4, y: 27}
+    - name: Bow Human Leather_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 27}
+        - {x: -17, y: -3}
+        - {x: -14, y: -29}
+        - {x: -10, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -20}
+        - {x: 14, y: 16}
+        - {x: 8, y: 27}
+    - name: Bow Human Leather_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 27}
+        - {x: -17, y: 27}
+        - {x: -17, y: -16}
+        - {x: -11, y: -28}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: 0}
+        - {x: 14, y: 16}
+        - {x: 4, y: 23}
+    - name: Bow Human Leather_37
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 27}
+        - {x: -17, y: 27}
+        - {x: -17, y: -9}
+        - {x: -16, y: -15}
+        - {x: -9, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -6}
+        - {x: 14, y: 17}
+        - {x: 5, y: 24}
+    - name: Bow Human Leather_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 27}
+        - {x: -17, y: 27}
+        - {x: -17, y: -24}
+        - {x: -10, y: -32}
+        - {x: 8, y: -32}
+        - {x: 10, y: -31}
+        - {x: 14, y: -11}
+        - {x: 14, y: 19}
+    - name: Bow Human Leather_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 22}
+        - {x: -16, y: 22}
+        - {x: -25, y: 20}
+        - {x: -25, y: -18}
+        - {x: -11, y: -32}
+        - {x: 8, y: -32}
+        - {x: 13, y: -31}
+        - {x: 27, y: -5}
+        - {x: 27, y: 7}
+        - {x: 17, y: 18}
+    - name: Bow Human Leather_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -25, y: 19}
+        - {x: -25, y: 7}
+        - {x: -20, y: -16}
+        - {x: -16, y: -19}
+        - {x: -19, y: -26}
+        - {x: -12, y: -32}
+        - {x: 12, y: -32}
+        - {x: 22, y: -8}
+        - {x: 22, y: 20}
+        - {x: 13, y: 22}
+    - name: Bow Human Leather_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 22}
+        - {x: -16, y: 22}
+        - {x: -25, y: 20}
+        - {x: -25, y: 3}
+        - {x: -17, y: -21}
+        - {x: -12, y: -30}
+        - {x: -10, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -31}
+        - {x: 25, y: -14}
+        - {x: 24, y: 12}
+        - {x: 22, y: 18}
+    - name: Bow Human Leather_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22}
+        - {x: -25, y: 21}
+        - {x: -25, y: 4}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 24, y: -22}
+        - {x: 24, y: 4}
+        - {x: 11, y: 22}
+    - name: Bow Human Leather_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22}
+        - {x: -25, y: 19}
+        - {x: -25, y: 1}
+        - {x: -22, y: -9}
+        - {x: -13, y: -32}
+        - {x: 10, y: -32}
+        - {x: 28, y: -14}
+        - {x: 28, y: 0}
+        - {x: 12, y: 22}
+    - name: Bow Human Leather_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 25}
+        - {x: 1, y: 25}
+        - {x: -12, y: 22}
+        - {x: -25, y: 18}
+        - {x: -25, y: 9}
+        - {x: -14, y: -31}
+        - {x: -13, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -31}
+        - {x: 29, y: -10}
+        - {x: 32, y: -5}
+        - {x: 32, y: 13}
+    - name: Bow Human Leather_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 27}
+        - {x: -25, y: 18}
+        - {x: -25, y: 9}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 32, y: 1}
+        - {x: 32, y: 6}
+        - {x: 10, y: 27}
+    - name: Bow Human Leather_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 25}
+        - {x: 0, y: 25}
+        - {x: -25, y: 18}
+        - {x: -25, y: 12}
+        - {x: -19, y: -2}
+        - {x: -16, y: -32}
+        - {x: 10, y: -32}
+        - {x: 29, y: -13}
+        - {x: 29, y: 13}
+        - {x: 21, y: 19}
+    - name: Bow Human Leather_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 22}
+        - {x: -19, y: 22}
+        - {x: -25, y: 19}
+        - {x: -25, y: 2}
+        - {x: -24, y: -6}
+        - {x: -13, y: -32}
+        - {x: 6, y: -32}
+        - {x: 13, y: -31}
+        - {x: 26, y: 0}
+        - {x: 26, y: 4}
+        - {x: 16, y: 19}
+    - name: Bow Human Leather_48
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 23}
+        - {x: -25, y: 19}
+        - {x: -25, y: 6}
+        - {x: -21, y: -7}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 21, y: -16}
+        - {x: 21, y: 16}
+        - {x: 10, y: 23}
+    - name: Bow Human Leather_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 23}
+        - {x: -25, y: 19}
+        - {x: -25, y: 4}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 21, y: -18}
+        - {x: 21, y: 18}
+        - {x: 11, y: 23}
+    - name: Bow Human Leather_50
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -25, y: 20}
+        - {x: -25, y: 9}
+        - {x: -15, y: -26}
+        - {x: -13, y: -32}
+        - {x: 15, y: -32}
+        - {x: 21, y: -20}
+        - {x: 21, y: 21}
+        - {x: 14, y: 23}
+    - name: Bow Human Leather_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 23}
+        - {x: -25, y: 18}
+        - {x: -25, y: 9}
+        - {x: -14, y: -32}
+        - {x: 5, y: -32}
+        - {x: 12, y: -30}
+        - {x: 25, y: -18}
+        - {x: 25, y: 6}
+        - {x: 14, y: 23}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

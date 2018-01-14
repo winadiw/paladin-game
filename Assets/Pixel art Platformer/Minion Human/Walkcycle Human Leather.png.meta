@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: 00dc0d1688e5afd42916824cb87fbd4d
+timeCreated: 1469453493
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Walkcycle Human Leather_0
+    21300002: Walkcycle Human Leather_1
+    21300004: Walkcycle Human Leather_2
+    21300006: Walkcycle Human Leather_3
+    21300008: Walkcycle Human Leather_4
+    21300010: Walkcycle Human Leather_5
+    21300012: Walkcycle Human Leather_6
+    21300014: Walkcycle Human Leather_7
+    21300016: Walkcycle Human Leather_8
+    21300018: Walkcycle Human Leather_9
+    21300020: Walkcycle Human Leather_10
+    21300022: Walkcycle Human Leather_11
+    21300024: Walkcycle Human Leather_12
+    21300026: Walkcycle Human Leather_13
+    21300028: Walkcycle Human Leather_14
+    21300030: Walkcycle Human Leather_15
+    21300032: Walkcycle Human Leather_16
+    21300034: Walkcycle Human Leather_17
+    21300036: Walkcycle Human Leather_18
+    21300038: Walkcycle Human Leather_19
+    21300040: Walkcycle Human Leather_20
+    21300042: Walkcycle Human Leather_21
+    21300044: Walkcycle Human Leather_22
+    21300046: Walkcycle Human Leather_23
+    21300048: Walkcycle Human Leather_24
+    21300050: Walkcycle Human Leather_25
+    21300052: Walkcycle Human Leather_26
+    21300054: Walkcycle Human Leather_27
+    21300056: Walkcycle Human Leather_28
+    21300058: Walkcycle Human Leather_29
+    21300060: Walkcycle Human Leather_30
+    21300062: Walkcycle Human Leather_31
+    21300064: Walkcycle Human Leather_32
+    21300066: Walkcycle Human Leather_33
+    21300068: Walkcycle Human Leather_34
+    21300070: Walkcycle Human Leather_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Walkcycle Human Leather_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 23}
+        - {x: -9, y: 23}
+        - {x: -17, y: 10}
+        - {x: -17, y: -31}
+        - {x: 16, y: -31}
+        - {x: 17, y: -29}
+        - {x: 17, y: 6}
+        - {x: 16, y: 13}
+    - name: Walkcycle Human Leather_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 23}
+        - {x: -8, y: 23}
+        - {x: -17, y: 16}
+        - {x: -17, y: -31}
+        - {x: 14, y: -31}
+        - {x: 17, y: -25}
+        - {x: 17, y: 6}
+        - {x: 16, y: 13}
+    - name: Walkcycle Human Leather_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 23}
+        - {x: -17, y: 18}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 16}
+        - {x: 9, y: 23}
+    - name: Walkcycle Human Leather_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 22}
+        - {x: -17, y: 13}
+        - {x: -17, y: -21}
+        - {x: -15, y: -28}
+        - {x: -6, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 13}
+        - {x: 8, y: 22}
+    - name: Walkcycle Human Leather_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 23}
+        - {x: -17, y: 13}
+        - {x: -17, y: -22}
+        - {x: -11, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 16}
+        - {x: 9, y: 23}
+    - name: Walkcycle Human Leather_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 23}
+        - {x: -4, y: 23}
+        - {x: -17, y: 13}
+        - {x: -17, y: -27}
+        - {x: -12, y: -31}
+        - {x: 12, y: -31}
+        - {x: 17, y: -27}
+        - {x: 17, y: 7}
+    - name: Walkcycle Human Leather_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 23}
+        - {x: -16, y: 12}
+        - {x: -17, y: 7}
+        - {x: -17, y: -25}
+        - {x: -11, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 14}
+        - {x: 4, y: 23}
+    - name: Walkcycle Human Leather_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22}
+        - {x: -16, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 5}
+        - {x: 6, y: 22}
+    - name: Walkcycle Human Leather_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 23}
+        - {x: -17, y: 16}
+        - {x: -17, y: -29}
+        - {x: -12, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -30}
+        - {x: 17, y: 21}
+        - {x: 10, y: 23}
+    - name: Walkcycle Human Leather_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 23}
+        - {x: -16, y: 18}
+        - {x: -16, y: -8}
+        - {x: -13, y: -29}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -30}
+        - {x: 24, y: 0}
+        - {x: 24, y: 19}
+        - {x: 17, y: 23}
+    - name: Walkcycle Human Leather_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 22}
+        - {x: -4, y: 22}
+        - {x: -16, y: 18}
+        - {x: -16, y: -27}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -23}
+        - {x: 24, y: 7}
+        - {x: 24, y: 20}
+    - name: Walkcycle Human Leather_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 23}
+        - {x: -16, y: 18}
+        - {x: -16, y: -11}
+        - {x: -13, y: -31}
+        - {x: 16, y: -31}
+        - {x: 24, y: -2}
+        - {x: 24, y: 19}
+        - {x: 17, y: 23}
+    - name: Walkcycle Human Leather_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 23}
+        - {x: -16, y: 16}
+        - {x: -16, y: -9}
+        - {x: -8, y: -31}
+        - {x: 7, y: -31}
+        - {x: 11, y: -30}
+        - {x: 17, y: -19}
+        - {x: 24, y: 11}
+        - {x: 24, y: 23}
+    - name: Walkcycle Human Leather_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 23}
+        - {x: -16, y: 17}
+        - {x: -16, y: -4}
+        - {x: -12, y: -28}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 23, y: 0}
+        - {x: 24, y: 6}
+        - {x: 24, y: 23}
+    - name: Walkcycle Human Leather_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 22}
+        - {x: -2, y: 22}
+        - {x: -16, y: 16}
+        - {x: -16, y: -32}
+        - {x: 10, y: -32}
+        - {x: 22, y: -20}
+        - {x: 24, y: 8}
+        - {x: 24, y: 21}
+    - name: Walkcycle Human Leather_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 23}
+        - {x: -16, y: 18}
+        - {x: -16, y: -4}
+        - {x: -11, y: -30}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 24, y: -8}
+        - {x: 24, y: 20}
+        - {x: 15, y: 23}
+    - name: Walkcycle Human Leather_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 23}
+        - {x: -4, y: 23}
+        - {x: -16, y: 16}
+        - {x: -16, y: 8}
+        - {x: -8, y: -31}
+        - {x: -6, y: -32}
+        - {x: 7, y: -32}
+        - {x: 17, y: -15}
+        - {x: 24, y: 2}
+        - {x: 24, y: 19}
+    - name: Walkcycle Human Leather_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 23}
+        - {x: -1, y: 23}
+        - {x: -16, y: 17}
+        - {x: -16, y: -2}
+        - {x: -10, y: -31}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 24, y: 1}
+        - {x: 24, y: 19}
+        - {x: 23, y: 20}
+    - name: Walkcycle Human Leather_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 19}
+        - {x: 5, y: 24}
+        - {x: -13, y: 28}
+        - {x: -17, y: 27}
+        - {x: -17, y: -31}
+        - {x: -14, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: Walkcycle Human Leather_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 28}
+        - {x: -17, y: 27}
+        - {x: -17, y: -19}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 16}
+        - {x: 5, y: 24}
+    - name: Walkcycle Human Leather_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -24}
+        - {x: -13, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 8}
+        - {x: 16, y: 16}
+        - {x: 5, y: 24}
+        - {x: -13, y: 28}
+    - name: Walkcycle Human Leather_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 27}
+        - {x: -16, y: 27}
+        - {x: -16, y: -20}
+        - {x: -13, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 18}
+        - {x: 6, y: 24}
+    - name: Walkcycle Human Leather_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 28}
+        - {x: -17, y: -22}
+        - {x: -12, y: -32}
+        - {x: 15, y: -32}
+        - {x: 17, y: -30}
+        - {x: 17, y: 16}
+        - {x: 13, y: 28}
+    - name: Walkcycle Human Leather_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 28}
+        - {x: -16, y: 27}
+        - {x: -17, y: 23}
+        - {x: -17, y: -30}
+        - {x: -15, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 20}
+        - {x: 5, y: 24}
+    - name: Walkcycle Human Leather_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 28}
+        - {x: -17, y: 28}
+        - {x: -17, y: -27}
+        - {x: -13, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 21}
+        - {x: 6, y: 26}
+    - name: Walkcycle Human Leather_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 27}
+        - {x: -17, y: 27}
+        - {x: -17, y: -23}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -23}
+        - {x: 16, y: 15}
+        - {x: 6, y: 25}
+    - name: Walkcycle Human Leather_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 28}
+        - {x: -17, y: 28}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 21}
+        - {x: 6, y: 26}
+    - name: Walkcycle Human Leather_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 23}
+        - {x: -24, y: 19}
+        - {x: -24, y: 11}
+        - {x: -15, y: -16}
+        - {x: -9, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 21}
+        - {x: 5, y: 23}
+    - name: Walkcycle Human Leather_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22}
+        - {x: -24, y: 18}
+        - {x: -24, y: 5}
+        - {x: -16, y: -32}
+        - {x: 11, y: -32}
+        - {x: 16, y: -29}
+        - {x: 16, y: 22}
+    - name: Walkcycle Human Leather_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 23}
+        - {x: -24, y: 21}
+        - {x: -24, y: 8}
+        - {x: -10, y: -31}
+        - {x: 16, y: -31}
+        - {x: 16, y: 18}
+        - {x: 8, y: 23}
+    - name: Walkcycle Human Leather_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 19}
+        - {x: 1, y: 23}
+        - {x: -14, y: 23}
+        - {x: -24, y: 19}
+        - {x: -24, y: 10}
+        - {x: -15, y: -19}
+        - {x: -7, y: -31}
+        - {x: 9, y: -31}
+        - {x: 10, y: -23}
+        - {x: 16, y: 4}
+    - name: Walkcycle Human Leather_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 19}
+        - {x: 1, y: 23}
+        - {x: -14, y: 23}
+        - {x: -24, y: 20}
+        - {x: -24, y: 7}
+        - {x: -14, y: -32}
+        - {x: 8, y: -32}
+        - {x: 12, y: -28}
+        - {x: 13, y: -19}
+        - {x: 16, y: 0}
+    - name: Walkcycle Human Leather_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22}
+        - {x: -24, y: 18}
+        - {x: -24, y: -1}
+        - {x: -20, y: -28}
+        - {x: -8, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -29}
+        - {x: 16, y: 19}
+        - {x: 3, y: 22}
+    - name: Walkcycle Human Leather_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 3}
+        - {x: 16, y: 19}
+        - {x: 1, y: 23}
+        - {x: -14, y: 23}
+        - {x: -24, y: 19}
+        - {x: -24, y: 8}
+        - {x: -17, y: -19}
+        - {x: -6, y: -32}
+        - {x: 7, y: -32}
+        - {x: 10, y: -29}
+        - {x: 10, y: -25}
+        - {x: 12, y: -19}
+    - name: Walkcycle Human Leather_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 23}
+        - {x: -14, y: 23}
+        - {x: -24, y: 19}
+        - {x: -24, y: 9}
+        - {x: -14, y: -27}
+        - {x: -8, y: -32}
+        - {x: 3, y: -32}
+        - {x: 8, y: -31}
+        - {x: 16, y: 4}
+        - {x: 16, y: 19}
+    - name: Walkcycle Human Leather_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 23}
+        - {x: -24, y: 19}
+        - {x: -24, y: 15}
+        - {x: -20, y: 10}
+        - {x: -10, y: -29}
+        - {x: -8, y: -32}
+        - {x: 8, y: -32}
+        - {x: 16, y: -11}
+        - {x: 16, y: 18}
+        - {x: 10, y: 23}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 4c2ec18348564fc4e8896b054a8ceaa7
+timeCreated: 1466435835
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerIdle_0
+    21300002: PlayerIdle_1
+    21300004: PlayerIdle_2
+    21300006: PlayerIdle_3
+    21300008: PlayerIdle_4
+    21300010: PlayerIdle_5
+    21300012: PlayerIdle_6
+    21300014: PlayerIdle_7
+    21300016: PlayerIdle_8
+    21300018: PlayerIdle_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerIdle_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -12}
+        - {x: 37, y: 10}
+        - {x: 29, y: 25}
+        - {x: 22, y: 36}
+        - {x: 3, y: 52}
+        - {x: -23, y: 52}
+        - {x: -34, y: 48}
+        - {x: -37, y: 31}
+        - {x: -37, y: -52}
+        - {x: 19, y: -52}
+        - {x: 19, y: -48}
+        - {x: 14, y: -43}
+        - {x: 19, y: -39}
+    - name: PlayerIdle_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 9
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 51.5}
+        - {x: -37, y: 37.5}
+        - {x: -37, y: -51.5}
+        - {x: 35, y: -51.5}
+        - {x: 37, y: -39.5}
+        - {x: 37, y: 51.5}
+    - name: PlayerIdle_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 9
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 51.5}
+        - {x: -36, y: 22.5}
+        - {x: -36, y: -51.5}
+        - {x: 29, y: -51.5}
+        - {x: 36, y: -33.5}
+        - {x: 36, y: 22.5}
+        - {x: 10, y: 51.5}
+    - name: PlayerIdle_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 9
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 51.5}
+        - {x: -36, y: 30.5}
+        - {x: -36, y: -51.5}
+        - {x: 32, y: -51.5}
+        - {x: 36, y: -44.5}
+        - {x: 36, y: 28.5}
+        - {x: 22, y: 51.5}
+    - name: PlayerIdle_4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 9
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: -19.5}
+        - {x: 35.5, y: 8.5}
+        - {x: 28.5, y: 32.5}
+        - {x: -1.5, y: 51.5}
+        - {x: -31.5, y: 51.5}
+        - {x: -35.5, y: 38.5}
+        - {x: -35.5, y: -51.5}
+        - {x: -14.5, y: -51.5}
+        - {x: -12.5, y: -42.5}
+        - {x: -3.5, y: -51.5}
+        - {x: 18.5, y: -51.5}
+    - name: PlayerIdle_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 9
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: -42.5}
+        - {x: 35.5, y: 50.5}
+        - {x: 33.5, y: 51.5}
+        - {x: -31.5, y: 51.5}
+        - {x: -35.5, y: 41.5}
+        - {x: -35.5, y: -51.5}
+        - {x: -14.5, y: -51.5}
+        - {x: -12.5, y: -42.5}
+        - {x: -3.5, y: -51.5}
+        - {x: 34.5, y: -51.5}
+    - name: PlayerIdle_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 9
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 51.5}
+        - {x: -20.5, y: 51.5}
+        - {x: -31.5, y: 43.5}
+        - {x: -35.5, y: 21.5}
+        - {x: -35.5, y: -51.5}
+        - {x: 22.5, y: -51.5}
+        - {x: 35.5, y: -13.5}
+        - {x: 35.5, y: 18.5}
+        - {x: 30.5, y: 32.5}
+    - name: PlayerIdle_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 9
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 51.5}
+        - {x: -20, y: 51.5}
+        - {x: -33, y: 33.5}
+        - {x: -36, y: 10.5}
+        - {x: -36, y: -51.5}
+        - {x: 29, y: -51.5}
+        - {x: 36, y: -30.5}
+        - {x: 36, y: 11.5}
+        - {x: 25, y: 42.5}
+    - name: PlayerIdle_8
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 9
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 51.5}
+        - {x: -36, y: 49.5}
+        - {x: -36, y: -51.5}
+        - {x: 36, y: -51.5}
+        - {x: 36, y: 42.5}
+        - {x: 16, y: 51.5}
+    - name: PlayerIdle_9
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 9
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 52}
+        - {x: -31, y: 36}
+        - {x: -32, y: 19}
+        - {x: -26, y: -8}
+        - {x: -21, y: -12}
+        - {x: -19, y: -12}
+        - {x: -29, y: -11}
+        - {x: -35, y: -7}
+        - {x: -37, y: -14}
+        - {x: -37, y: -49}
+        - {x: -36, y: -52}
+        - {x: 21, y: -52}
+        - {x: 37, y: -11}
+        - {x: 37, y: 31}
+        - {x: 5, y: 52}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
